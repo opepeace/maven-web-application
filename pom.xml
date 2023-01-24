@@ -13,8 +13,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>opepeace</name>
+		<url>http://github.com/opepeace/maven-web-application.git/</url>
 	</organization>
 
 	<properties>
