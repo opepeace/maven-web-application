@@ -94,13 +94,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>opepeace Releases Nexus Repository</name>
 	      <url>http://3.235.64.255:8081/repository/teslaproject1/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>opepeace Snapshot Nexus Repository </name>
 	      <url>http://3.235.64.255:8081/repository/teslaproject1snapshot/</url>
 	    </snapshotRepository>
 	    
