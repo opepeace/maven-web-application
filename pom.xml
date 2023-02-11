@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>opepeace Releases Nexus Repository</name>
-	      <url>http://44.213.68.168:8081/repository/tesla6-releases/</url>
+	      <url>http://44.213.68.168:8081/repository/tesla7-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>opepeace Snapshot Nexus Repository</name>
-	      <url>http://44.213.68.168:8081/repository/tesla6-snapshot/</url>
+	      <url>http://44.213.68.168:8081/repository/tesla7-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
